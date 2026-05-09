@@ -10,7 +10,7 @@ This resource serves as a centralized repository to assist researchers in unders
 Vivek Dhar Dwivedi, Aditya Arya, Pardeep Yadav, Rajesh Kumar, Vinod Kumar, Gajendra P S Raghava, **DenvInD: dengue virus inhibitors database for clinical and molecular research,**
 Briefings in Bioinformatics, Volume 22, Issue 3, May 2021, https://doi.org/10.1093/bib/bbaa098
 
-This dataset can also be found on Zenodo at
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20094661
 
 ## About the Platform
 
